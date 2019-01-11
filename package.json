@@ -1,0 +1,17 @@
+{
+  "name": "react-native-autocomplete",
+  "version": "1.0.0",
+  "description": "Customizabel JS autocomplete input",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Customize",
+    "reac-native",
+    "autocomplete",
+    "input"
+  ],
+  "author": "AndriiMarusyk <child4240@gmail.com>",
+  "license": "ISC"
+}
